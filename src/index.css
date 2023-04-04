@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    background-color: #23252C;
+    text-align: center;
+}
+
+.profile-img {
+    padding-top: 44px;
+}
+
+main {
+    background-color: #1A1B21;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+footer {
+    background-color: #161619;
+}
